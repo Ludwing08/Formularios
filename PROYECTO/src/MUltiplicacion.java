@@ -15,7 +15,7 @@ public class MUltiplicacion extends javax.swing.JFrame {
      */
     public MUltiplicacion() {
         initComponents();
-        this.barriga11.barriga("NOMBRES");
+        this.barriga11.barriga("Apellidos");
     }
 
     /**
